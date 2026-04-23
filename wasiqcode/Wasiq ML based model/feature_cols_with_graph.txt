@@ -1,0 +1,58 @@
+Entropy
+Entropy_squared
+Entropy_log
+Entropy_round
+Packed_freq
+Packed_target_encoded
+Packed_is_packed
+Packed_is_not packed
+Packed_is_unknown
+Compiler_freq
+Compiler_target_encoded
+Compiler_is_unknown
+Compiler_is_Visual Basic(6.00.8041)[Native]
+Compiler_is_Microsoft Visual C/C++(13.10.4035)[C]
+Compiler_is_Microsoft Visual C/C++(12.00.8168)[C++]
+Compiler_is_Microsoft Visual C/C++(19.13.26213)[LTCG/C++]
+Compiler_is_Microsoft Visual C/C++(12.00.9782)[C++]
+Compiler_is_Borland Delphi
+Compiler_is_Microsoft Visual C/C++(13.10.4035)[C++/book]
+Compiler_is_Borland Delphi(6-7 or 2005)[Enterprise]
+Compiler_is_MASM(6.14.8444)[MMX2 support]
+Linker_freq
+Linker_target_encoded
+Linker_is_unknown
+Linker_is_Microsoft Linker(6.0)
+Linker_is_Turbo Linker(2.25*,Delphi)[GUI32]
+Linker_is_Microsoft Linker(14.13.26213)
+Linker_is_Microsoft Linker(5.12.8034)
+Linker_is_Microsoft Linker(7.10.4035)
+Linker_is_LCC Linker(2.55*)[GUI32]
+Linker_is_Microsoft Linker(6.00.8168)
+Linker_is_Microsoft Linker(10.00.40219)
+Linker_is_Polink(2.50*)[GUI32]
+Entropy_x_Packed
+Compiler_entropy_mean
+Compiler_entropy_std
+Compiler_entropy_max
+Year
+Month
+Day_of_week
+Week_of_year
+Quarter
+num_nodes
+num_edges
+graph_density
+avg_degree
+max_degree
+min_degree
+std_degree
+num_components
+largest_component_size
+largest_component_ratio
+avg_section_entropy
+max_section_entropy
+num_imports
+num_exports
+has_resources
+has_debug

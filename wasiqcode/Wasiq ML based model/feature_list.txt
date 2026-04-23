@@ -1,0 +1,50 @@
+Entropy
+Packed_encoded
+is_packed
+Compiler_freq
+compiler_unknown
+compiler_Visual Basic(6.00.80
+compiler_Microsoft Visual C/C
+compiler_Microsoft Visual C/C
+compiler_Microsoft Visual C/C
+compiler_Microsoft Visual C/C
+compiler_Borland Delphi
+compiler_Microsoft Visual C/C
+compiler_Borland Delphi(6-7 o
+compiler_MASM(6.14.8444)[MMX2
+Linker_freq
+linker_unknown
+linker_Microsoft Linker(6.0
+linker_Turbo Linker(2.25*,D
+linker_Microsoft Linker(14.
+linker_Microsoft Linker(5.1
+linker_Microsoft Linker(7.1
+linker_LCC Linker(2.55*)[GU
+linker_Microsoft Linker(6.0
+linker_Microsoft Linker(10.
+linker_Polink(2.50*)[GUI32]
+Entropy_squared
+Entropy_log
+Entropy_round
+Entropy_bin
+Entropy_rolling_mean
+Entropy_rolling_std
+Entropy_x_Packed
+Compiler_x_Linker
+compiler_entropy_mean
+compiler_entropy_std
+packed_entropy_mean
+compiler_linker_ratio
+unique_categories_count
+Year
+Month
+Day
+DayOfWeek
+Quarter
+WeekOfYear
+Month_sin
+Month_cos
+Day_sin
+Day_cos
+entropy_zscore
+entropy_outlier
